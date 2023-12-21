@@ -18,7 +18,7 @@ function check_number(){
 
 #VARIABLES
 
-num=$(($RANDOM%100))
+num=$(($RANDOM%101))
 declare -ig try
 
 ##########
