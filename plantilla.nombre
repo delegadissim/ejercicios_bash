@@ -1,5 +1,0 @@
-#!/bin/bash
-if [[ $# -eq 1 ]] && [[ $1 =~ ^[0-9]+$ ]]; then
-else 
-	echo -e "La forma d'utilitzar l'script \n\t-$0 X --> on X es un nombre"
-fi
